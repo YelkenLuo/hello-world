@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+Hi Humans!
+PHP is the best programming language in the world!
